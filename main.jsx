@@ -1,6 +1,6 @@
 // include any css files here
 
-require('./assets/app.css');
+require('./assets/app.scss');
 
 var React = require('react');
 var Router = require('react-router');
