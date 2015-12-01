@@ -14,8 +14,8 @@
     "postinstall": "npm run probuild && npm run rejoice",
     "rejoice": "echo server build completed."
   },
-  "author": "Irvin Zhan",
-  "license": "MIT",
+  "author": "TODO_CHANGE_AUTHOR",
+  "license": "TODO_CHANGE_LICENSE",
   "engines": {
     "node": "0.10.x"
   },
